@@ -89,8 +89,25 @@ This project is licensed under the Apache 2.0 License.
 📬 Contact
 For suggestions, feel free to open an issue or contact via GitHub.
 
+---------------------------------------------
 
+📌 Note on laravel.sql File
+The laravel.sql file provided in this repository is for reference purposes only.
 
+You do not need to manually import this SQL file into your database.
+
+Instead, this Laravel project uses Laravel's built-in migration system to automatically create all required database tables and structure.
+
+✅ How to Set Up the Database:
+   Make sure your .env file is properly configured with your MySQL credentials.
+
+   Create a new database (e.g., form-submit) in your MySQL server.
+
+   Run the following command:
+
+   php artisan migrate
+   
+This will automatically create all necessary tables without any manual SQL imports.
 
 
 
