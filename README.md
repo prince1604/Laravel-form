@@ -91,13 +91,6 @@ For suggestions, feel free to open an issue or contact via GitHub.
 
 
 
----
-
-✅ **Note**: Replace `YOUR-USERNAME` in the GitHub URL with your actual GitHub username.
-
-Would you like a logo, shields.io badges (build, license, PHP version), or screenshots section added too?
-
-
 
 
 
