@@ -46,27 +46,27 @@ laravel_project/form-submit
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR-USERNAME/laravel-form.git
+   git clone https://github.com/prince1604/Laravel-form.git
    cd laravel-form
 
-2. Install dependencies:
+3. Install dependencies:
    composer install
 
-3. Create a .env file:
+4. Create a .env file:
    cp .env.example .env
 
-4. Generate application key:
+5. Generate application key:
    php artisan key:generate
 
-5. Set up your database in .env:
+6. Set up your database in .env:
    DB_DATABASE=your_database_name
    DB_USERNAME=your_username
    DB_PASSWORD=your_password
 
-6. Run migrations:
+7. Run migrations:
    php artisan migrate
 
-7. Serve the application:
+8. Serve the application:
    php artisan serve
 Visit http://localhost:8000
 
