@@ -8,8 +8,6 @@
                                                                            
 ```
 
-# Laravel-Form
-
 A Laravel-based CRUD form application that demonstrates essential Laravel features with a user-friendly interface.
 
 ---
